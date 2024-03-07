@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  javichart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-03-07T14:19:16.1818534Z"
+    description: A Helm chart for Kubernetes
+    digest: 6c5677f2e50a62d6b586dc5e13f0611acc0bfe3207c70a131c8fdaed6f8d0613
+    name: javichart
+    type: application
+    urls:
+    - charts/javichart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-03-07T14:19:16.1813366Z"
